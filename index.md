@@ -4,3 +4,4 @@
 #### The right size?
 ##### Must be
 ###### Even smaller?
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
