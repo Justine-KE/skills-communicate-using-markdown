@@ -8,3 +8,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Snuggle Opie
+- [ ] Feed Opie
+- [ ] Let Opie outside
